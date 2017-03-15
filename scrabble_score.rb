@@ -7,3 +7,4 @@ def scrabble_score(word)
 end
 
 p scrabble_score("scholar")  #=> 12
+
